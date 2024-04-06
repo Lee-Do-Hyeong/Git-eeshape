@@ -1,1 +1,1 @@
- print("newfile")
+print('newfile')
